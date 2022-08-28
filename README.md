@@ -25,7 +25,7 @@ You can join Beta Testing WhatsApp Group by invite link :
 ---
 </br>
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/cruzlaki/QueenAmdi">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
   <a href="https://github.com/BlackAmda/QueenAmdi">
